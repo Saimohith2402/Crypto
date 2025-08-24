@@ -3,12 +3,16 @@
 A group project built to track and analyze cryptocurrency prices in real time.  
 The project demonstrates the use of APIs, data visualization, and database design for monitoring digital assets.  
 
+---
+
 ## 🚀 Features
 - Fetches real-time cryptocurrency data from public APIs  
 - Displays live price updates and trends  
 - Database schema designed for structured storage of crypto data (ER diagram included)  
 - Python-based backend with modular code structure  
 - Easily extensible for more advanced analytics  
+
+---
 
 ## 📂 Project Structure
 crypto/
@@ -17,14 +21,16 @@ crypto/
 ├── requirements.txt # Python dependencies
 └── README.md # Documentation
 
+---
+
 ## 🛠️ Installation & Setup  
 
 1. **Clone the repository**  
+   ```bash
    git clone https://github.com/Saimohith2402/Crypto.git
    cd crypto
-Install dependencies
 
-pip install -r requirements.txt
+2. **Install dependencies**: pip install -r requirements.txt
 
 📊 ER Diagram
 The file ER Diagram.jpg represents the database design for handling cryptocurrency data, including entities for users, assets, transactions, and market information.
@@ -32,8 +38,9 @@ The file ER Diagram.jpg represents the database design for handling cryptocurren
 🧑‍🤝‍🧑 Contributors
 This project was collaboratively developed as part of a group effort:
 
-Sai Mohith Reddy– API integration, data visualization, documentation
-Gnanadeep– Backend logic, database design
+Sai Mohith Reddy – API integration, data visualization, documentation
+
+Gnanadeep – Backend logic, database design
 
 🔮 Future Enhancements
 Add support for multiple crypto exchanges (Binance, Coinbase, etc.)
@@ -50,5 +57,9 @@ We recommend using the MIT License.
 
 🙌 Acknowledgements
 Public crypto price APIs (e.g., CoinGecko, CoinMarketCap)
+
 Python open-source libraries community
+
 Guidance from mentors and peers during development
+Guidance from mentors and peers during development
+
